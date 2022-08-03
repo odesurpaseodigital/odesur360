@@ -1,7 +1,4 @@
 {
- "name": "ODESUR - Evolución de Obra",
- "start_url": "index.html",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -39,7 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
+ "name": "ODESUR - Evolución de Obra",
+ "description": "Nuestra línea de tiempo sobre la evolución de los trabajos en el Comité Olímpico",
+ "display": "fullscreen",
  "background_color": "#FFFFFF",
- "description": "Nuestra línea de tiempo sobre la evolución de los trabajos en el Comité Olímpico"
+ "start_url": "index.html",
+ "theme_color": "#FFFFFF"
 }

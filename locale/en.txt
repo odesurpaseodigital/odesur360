@@ -5,8 +5,8 @@
 ### URL
 WebFrame_FEA9ABEB_E299_EBEF_41EA_3F21C98D5E6E.url = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20Paseo%20Digital%20de%20la%20Odesur.
 WebFrame_FE2AE412_E29A_BC39_41E9_AFBDF05EA20F.url = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20Paseo%20Digital%20de%20la%20Odesur.
-LinkBehaviour_FE41EDEE_E28A_6FE9_41AE_D8611F039E87.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20Paseo%20Digital%20de%20la%20Odesur.
 LinkBehaviour_FF9EB58C_E296_FC29_41C0_5E742BBE97A3.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20Paseo%20Digital%20de%20la%20Odesur.
+LinkBehaviour_FE41EDEE_E28A_6FE9_41AE_D8611F039E87.source = https://api.whatsapp.com/send?phone=595981408400&text=Hola!%20Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20Paseo%20Digital%20de%20la%20Odesur.
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.438722890662!2d-57.53231468457826!3d-25.255822983868956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x336c3ab30f859be5!2zMjXCsDE1JzIxLjAiUyA1N8KwMzEnNDguNSJX!5e0!3m2!1sen!2spy!4v1665956890097!5m2!1sen!2spy
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.438722890662!2d-57.53231468457826!3d-25.255822983868956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x336c3ab30f859be5!2zMjXCsDE1JzIxLjAiUyA1N8KwMzEnNDguNSJX!5e0!3m2!1sen!2spy!4v1665956890097!5m2!1sen!2spy
 
@@ -40,8 +40,8 @@ panorama_EFC10934_E21B_8402_41DB_AB5BB64CC2DA.label = Velódromo "Dr. Venancio C
 video_EDFF8395_E20D_8402_41EB_EE0A4CB07944.label = fire1
 
 ### Video
-videolevel_FFBC81D5_E28A_543B_41E4_889AA6C02D19.url = media/video_EDFF8395_E20D_8402_41EB_EE0A4CB07944_en.mp4
-videolevel_FFBC81D5_E28A_543B_41E4_889AA6C02D19.posterURL = media/video_EDFF8395_E20D_8402_41EB_EE0A4CB07944_poster_en.jpg
+videolevel_F1F7B41E_E2FE_6247_41DC_2C9FA48EBCE3.url = media/video_EDFF8395_E20D_8402_41EB_EE0A4CB07944_en.mp4
+videolevel_F1F7B41E_E2FE_6247_41DC_2C9FA48EBCE3.posterURL = media/video_EDFF8395_E20D_8402_41EB_EE0A4CB07944_poster_en.jpg
 
 ## Skin
 

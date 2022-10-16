@@ -1,8 +1,9 @@
 {
- "start_url": "index.htm",
+ "theme_color": "#000000",
  "name": "ODESUR 360",
  "description": "Conocé los juegos desde perspectivas únicas en altísima calidad!",
  "display": "fullscreen",
+ "background_color": "#000000",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#000000",
- "background_color": "#000000"
+ "start_url": "index.htm"
 }

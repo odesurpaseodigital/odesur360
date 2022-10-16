@@ -1,9 +1,8 @@
 {
- "name": "ODESUR - Evolución de Obra",
- "background_color": "#FFFFFF",
- "description": "Nuestra línea de tiempo sobre la evolución de los trabajos en el Comité Olímpico",
+ "start_url": "index.htm",
+ "name": "ODESUR 360",
+ "description": "Conocé los juegos desde perspectivas únicas en altísima calidad!",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.html"
+ "theme_color": "#000000",
+ "background_color": "#000000"
 }
